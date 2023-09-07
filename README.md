@@ -33,6 +33,12 @@ e.g.
    ```bash
    pip install -r requirements.txt
    ```
+4. Install the tesseract:
+
+   ```bash
+   https://github.com/UB-Mannheim/tesseract/wiki
+   ```
+   
 
 ## Usage
 
